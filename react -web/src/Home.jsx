@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 
 const Home = () => {
     return (
-        <div className='w-[400px] mx-auto flex flex-col justify-center bg-[#F7F9FB] items-center my-3 '>
+        <div className='md:w-[400px] mx-auto flex flex-col justify-center bg-[#F7F9FB] items-center my-3 '>
             <div className=''>
             <div className='w-28'>
                 <img src={pic} alt="" />
